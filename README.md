@@ -6,7 +6,7 @@
 [![twitter badge](https://img.shields.io/badge/@Chauhan_Nush-30302f?style=flat&logo=twitter)](https://twitter.com/Chauhan_Nush)
 
 
-<h1>Hi there, I'm Anushka - aka [Nushcode][https://nushcode.github.io/My_Portfolio/]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Anushka - aka [<a href="https://nushcode.github.io/My_Portfolio/">Nushcode</a>]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;CSE+Sophomore)](https://git.io/typing-svg)
 
