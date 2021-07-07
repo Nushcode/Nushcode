@@ -1,6 +1,6 @@
 <div align="center">
   
-<!-- <img href="https://www.linkedin.com/in/anushka-singh-1606/" src="https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin"/> -->
+<!-- <img href="https://www.linkedin.com/in/anushka-singh-1606/" src="https://img.shields.io/badge/Anushka Singh-30302f?style=flat&logo=linkedin"/> -->
   
 [![linkedin badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka-singh-1606/)
 [![twitter badge](https://img.shields.io/badge/@nyctonio-30302f?style=flat&logo=twitter)](https://twitter.com/Chauhan_Nush)
