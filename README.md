@@ -2,8 +2,8 @@
   
 <!-- <img href="https://www.linkedin.com/in/anushka-singh-1606/" src="https://img.shields.io/badge/Anushka Singh-30302f?style=flat&logo=linkedin"/> -->
   
-[![linkedin badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka-singh-1606/)
-[![twitter badge](https://img.shields.io/badge/@nyctonio-30302f?style=flat&logo=twitter)](https://twitter.com/Chauhan_Nush)
+[![linkedin badge](https://img.shields.io/badge/Anushka_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka-singh-1606/)
+[![twitter badge](https://img.shields.io/badge/@Chauhan_Nush-30302f?style=flat&logo=twitter)](https://twitter.com/Chauhan_Nush)
 
 
 <h1>Hi there, I'm Anushka - aka [Nushcode][https://nushcode.github.io/My_Portfolio/]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
