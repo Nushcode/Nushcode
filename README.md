@@ -20,8 +20,8 @@
 <img align="right" src="./codingcat.gif"/>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Reactjs and MERN-STACK
-- 🌱 I’m currently learning Svelte
+- 🔭 I’m currently working on MERN-STACK
+- 🌱 I’m currently learning Nodejs
 - 💬 Ask me about WebDev,C++,java,DataStructures,Python
 - 📫 How to reach me: mzpbsnl5@gmail.com
 - 😄 Pronouns: She/Her
